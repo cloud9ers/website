@@ -12,7 +12,7 @@ const Navbar: React.FC = () => {
       
       <div className="hidden md:block">
         <span className="text-xs font-mono text-neutral-400">
-          EST. 2024
+          EST. 2009
         </span>
       </div>
     </nav>
